@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Antony12478?theme=dark)
 <!--
 **Antony1247/Antony1247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
