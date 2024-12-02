@@ -25,5 +25,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antony1247&show_icons=true&locale=en&layout=compact" alt="antony1247" /></p>
 
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Antony12478?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Antony12478?theme=dark&font=Capriola&ext=activity)
