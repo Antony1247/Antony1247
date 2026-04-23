@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony John Alappat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A developer in Sydney</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antony1247&label=Profile%20views&color=0e75b6&style=flat" alt="antony1247" /> </p>
 
